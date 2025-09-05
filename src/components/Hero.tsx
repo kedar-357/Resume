@@ -32,7 +32,7 @@ const Hero = () => {
             variant="default" 
             size="lg" 
             className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 text-lg font-medium"
-            onClick={() => window.open('https://drive.google.com/file/d/1qTNAwzXs2LSzGMTczT5kQlnEU-yf-Ku2/view?usp=drive_link', '_blank')}
+            onClick={() => window.open('https://drive.google.com/file/d/1vlUwNK3DS9RDiB9kM0cbNoAlAWE4xK8R/view?usp=sharing', '_blank')}
           >
             View Resume
           </Button>
